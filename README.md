@@ -1,6 +1,6 @@
 # Improved-Spanish-Localization
 
-Actualizado para: 1.0 b217
+Actualizado para: 1.0 b317
 
 **Modo de uso:** Reemplaza el archivo `Localization.txt` en tus archivos del juego. Por defecto en: `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Data\Config`
 
