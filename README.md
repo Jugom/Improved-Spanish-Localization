@@ -2,7 +2,7 @@
 
 Actualizado para: 1.0 b317
 
-**Modo de uso:** Reemplaza el archivo `Localization.txt` en tus archivos del juego. Por defecto en: `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Data\Config`
+**Modo de uso:** Agrégalo como cualquier otro Modlet para 7DTD en tu carpeta de Mods. Por defecto en: `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`
 
 ### Traducción al Español Mejorada para 7 Days to Die / Improved Spanish Localization for 7 Days to Die
 
