@@ -1,6 +1,6 @@
 # Improved-Spanish-Localization
 
-Actualizado para: 1.0 b327
+Actualizado para: 1.0 b328
 
 **Modo de uso:** Agrégalo como cualquier otro Modlet para 7DTD en tu carpeta de Mods. Por defecto en: `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`
 
