@@ -13,7 +13,8 @@ Más de 900 líneas cambiadas.
 o en
 
 `%AppData%\7DaysToDie\Mods`
-
+<br/><br/>
+<br/><br/>
 ### Traducción al Español Mejorada para 7 Days to Die / Improved Spanish Localization for 7 Days to Die
 
 Cansado de la traducción al Español para 7 Days to Die, hecha o con un traductor en línea o por alguien que claramente nunca ha tocado el juego o ambas, decidí hacer algo al respecto y compartirlo con todos ustedes. 
