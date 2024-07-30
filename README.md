@@ -2,7 +2,17 @@
 
 Actualizado para: 1.0 b333
 
-**Modo de uso:** Agrégalo como cualquier otro Modlet para 7DTD en tu carpeta de Mods. Por defecto en: `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`
+
+Más de 900 líneas cambiadas.
+<br/><br/>
+<br/><br/>
+<ins>**Modo de uso:**</ins> Agrégalo como cualquier otro Modlet para 7DTD en tu carpeta de Mods. Por defecto en:
+
+`C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`
+
+o en
+
+`%AppData%\7DaysToDie\Mods`
 
 ### Traducción al Español Mejorada para 7 Days to Die / Improved Spanish Localization for 7 Days to Die
 
