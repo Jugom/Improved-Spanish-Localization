@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-    <Name value="Jugom-ImprovedSpanishLocalization" />
-    <DisplayName value="Improved Spanish Localization [7dtd en Español]" />
-    <Version value="1.0.333.3" />
-    <Description value="Improved Spanish translation for 7DTD" />
+    <Name value="Jugom-RepackAmmo" />
+    <DisplayName value="Repack Ammo" />
+    <Version value="1.0" />
+    <Description value="Repack loose ammo into Bundles" />
     <Author value="Jugom" />
-    <Website value="https://github.com/Jugom/Improved-Spanish-Localization" />
+    <Website value="" />
 </xml>
