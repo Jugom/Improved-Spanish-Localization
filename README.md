@@ -1,7 +1,5 @@
 # Improved-Spanish-Localization
 ### Actualizado para: 1.0 b333.
-Si estas jugando la version experimental, revisa las "Branches" de este repositorio.
-
 Más de 1000 líneas modificadas.<br/><br/><br/><br/>
 <ins>**Modo de uso:**</ins> Agrégalo como cualquier otro Mod para 7DTD en tu carpeta de Mods. Por defecto en:<br/><br/>
 Windows: `%AppData%\7DaysToDie\Mods`<br/><br/>
