@@ -6,7 +6,7 @@ Windows: `%AppData%\7DaysToDie\Mods`<br/><br/>
 Linux: `~/.local/share/7DaysToDie/Mods`<br/><br/>
 Mac: `~/Library/Application Support/7DaysToDie/Mods`
 <br/><br/><br/><br/>
-Asegurate de que no tienes el Mod instalado dentro de una carpeta adicional.<br/><br/>
+Asegúrate de que no tienes el Mod instalado dentro de una carpeta adicional.<br/><br/>
 ![image](https://github.com/user-attachments/assets/fb875ece-9dc1-4757-9f2f-b65e772a274a)   ![image](https://github.com/user-attachments/assets/32a86abb-3a75-4e44-bc45-47c0153d6fd1)
 <br/><br/><br/><br/>
 ### Traducción al Español Mejorada para 7 Days to Die / Improved Spanish Localization for 7 Days to Die
