@@ -1,9 +1,9 @@
 # Improved-Spanish-Localization
 
-### Actualizado para: 1.1 b4
+### Actualizado para: 1.1 b14
 
 
-Más de 1000 líneas modificadas.<br/><br/><br/><br/>
+Casi de 1500 líneas modificadas.<br/><br/><br/><br/>
 <ins>**Modo de uso:**</ins> Agrégalo como cualquier otro Mod para 7DTD en tu carpeta de Mods. Por defecto en:<br/><br/>
 Windows: `%AppData%\7DaysToDie\Mods`<br/><br/>
 Linux: `~/.local/share/7DaysToDie/Mods`<br/><br/>
