@@ -1,5 +1,5 @@
 # Improved-Spanish-Localization
-### Actualizado para: 2.6 b14
+### Actualizado para: 3.0 b259
 Más de 1500 líneas modificadas.<br/><br/><br/><br/>
 <ins>**Modo de uso:**</ins> Agrégalo como cualquier otro Mod para 7DTD en tu carpeta de Mods. Por defecto en:<br/><br/>
 Windows: `%AppData%\7DaysToDie\Mods`<br/><br/>
@@ -15,4 +15,3 @@ Cansado de la traducción al Español para 7 Days to Die, hecha o con un traduct
 Este archivo corrige errores antiguos como los giróscopos voladores, el pozo de combustión y las limas de vainilla, así como también agrega algunas traducciones faltantes. 
 
 Generalmente voy corrigiendo errores al ritmo que los voy encontrando al jugar, así que si encuentras un error, una traducción que falta o estás en desacuerdo con algunos de mis cambios, házmelo saber he intentaremos corregirlo.
-
