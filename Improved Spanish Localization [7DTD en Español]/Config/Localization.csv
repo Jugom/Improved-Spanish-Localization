@@ -24231,6 +24231,8 @@ xuiOptionsAudioDiscordInputDevice,UI,XUi Audio Options,x,,,Input Device,,,Dispos
 xuiOptionsAudioDiscordInputDeviceTooltip,UI,XUi Audio Options,x,,,Select microphone used for input.,,,Selecciona el micrófono de entrada.,,,,,,,,,,
 xuiOptionsAudioDiscordInputVolume,UI,XUi Audio Options,x,,,Input Volume,,,Volumen de entrada,,,,,,,,,,
 xuiOptionsAudioDiscordInputVolumeTooltip,UI,XUi Audio Options,x,,,Adjusts microphone volume.,,,Ajusta el volumen del micrófono.,,,,,,,,,,
+xuiOptionsAudioDiscordMuteDmNotifications,UI,XUi Audio Options,x,,,Mute DM Notifications,,,Silenciar Notificaciones de MD,,,,,,,,,,
+xuiOptionsAudioDiscordMuteDmNotificationsTooltip,UI,XUi Audio Options,x,,,,,,,,,,,,,,,,
 xuiOptionsAudioDiscordOutputDevice,UI,XUi Audio Options,x,,,Output Device,,,Dispositivo de salida,,,,,,,,,,
 xuiOptionsAudioDiscordOutputDeviceTooltip,UI,XUi Audio Options,x,,,Select device used for output.,,,Selecciona el dispositivo de salida.,,,,,,,,,,
 xuiOptionsAudioDiscordOutputVolume,UI,XUi Audio Options,x,,,Output Volume,,,Volumen de salida,,,,,,,,,,
